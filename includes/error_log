@@ -1,0 +1,5 @@
+[06-Aug-2018 20:33:30 Europe/London] PHP Notice:  Undefined index: home in /home/cadetcollegegujr/public_html/includes/apply_admission.php on line 21
+[06-Aug-2018 20:33:47 Europe/London] PHP Notice:  Undefined index: home in /home/cadetcollegegujr/public_html/includes/apply_admission.php on line 21
+[06-Aug-2018 20:34:46 Europe/London] PHP Notice:  Undefined index: home in /home/cadetcollegegujr/public_html/includes/apply_admission.php on line 21
+[06-Aug-2018 20:37:10 Europe/London] PHP Notice:  Undefined index: home in /home/cadetcollegegujr/public_html/includes/apply_admission.php on line 21
+[07-Aug-2018 08:47:42 Europe/London] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/cadetcollegegujr/public_html/includes/apply_admission.php on line 45
